@@ -1,5 +1,9 @@
 resources:
 ===============
+### Frameworks
+iOS native apps using samurai:
+https://github.com/hackers-painters/samurai-native.git
+
 ### Security:
 Certificate Expiration Monitor script:
 https://github.com/corelan/certmon.git
@@ -50,6 +54,9 @@ https://github.com/zx2c4/PhotoFloat.git
 jQuery plugin for fluid width video embeds:
 https://github.com/davatron5000/FitVids.js.git
 
+3d engines using webgl:
+https://github.com/stormcolor/stormenginec.git
+
 #### sound
 audio web component for podcasts:
 https://github.com/davatron5000/podcast-player.git
@@ -88,6 +95,8 @@ https://github.com/tadruj/s3upload-coffee-javascript.git
 unionfs filesystem:
 https://github.com/rpodgorny/unionfs-fuse.git
 
+File System as CMS:
+https://github.com/stormcolor/fsjs.git
 
 ### maps
 geospatial engine:
@@ -95,6 +104,10 @@ https://github.com/Turfjs/turf.git
 
 Find the points on a surface that are closest to the origin:
 https://github.com/Turfjs/turf-point-on-surface.git
+
+wrapper around WebCLGL:
+https://github.com/typpo/gpu.js.git
+https://github.com/stormcolor/webclgl.git
 
 ### iOS
 OCR iOS7+:
@@ -117,6 +130,9 @@ https://github.com/jquery/jquery-mobile.git
 chrome extension for speedier HTML Media:
 https://github.com/davatron5000/2x.git
 
+Better code navigation in github:
+https://github.com/typpo/codenav.git
+
 ### server as workers:
 geographic map tiles server:
 https://github.com/TileStache/TileStache.git
@@ -136,6 +152,9 @@ https://github.com/migurski/paperwalking.git
 
 color transformations of mapping file:
 https://github.com/migurski/ColorCheat.git
+
+search and scrape Google:
+https://github.com/jprichardson/node-google.git
 
 ### API
 open vector tile service for OpenStreetMap base layer data:
